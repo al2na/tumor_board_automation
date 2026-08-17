@@ -47,10 +47,9 @@ The workflow expects the following inputs:
 2. **Pathology Report**: Can include molecular biomarkers and other molecular testing.
 3. **Radiology Report**
 4. **Diagnostic Surgery / Procedural Report**
-5. **Query to the Tumor Board**
+5. **Query to the Tumor Board**: The specific clinical question you want the simulated multidisciplinary team to address.
 
-   * The specific clinical question you want the simulated multidisciplinary team to address.
-
+An example is [here](https://github.com/al2na/tumor_board_automation/blob/main/case_example.md)
 For best results, provide the relevant reports as complete text while preserving dates, measurements, anatomical locations, pathology terminology, and qualifying language such as *possible*, *suspicious*, *indeterminate*, or *cannot exclude*.
 
 ### Step 4: Run the Automation
